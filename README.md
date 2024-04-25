@@ -24,7 +24,6 @@ Display Functions: Provides functions for displaying contacts in various formats
 1. Clone the Repository:  
     git clone https://github.com/mihirpatel20-mp/Phonebook-Directory-Using-BST.git
 
-   https://github.com/mihirpatel20-mp/Phonebook-Directory-Using-BST/tree/main
 3. Install Dependencies:  
     Navigate to the project directory and install any dependencies required by running:  
         pip install -r requirements.txt  
