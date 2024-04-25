@@ -22,7 +22,7 @@ Display Functions: Provides functions for displaying contacts in various formats
 ## Usage
 
 1. Clone the Repository:  
-    git clone https://github.com/yourusername/phonebook-directory.git  
+    git clone https://github.com/mihirpatel20-mp/phonebook-directory.git  
 2. Install Dependencies:  
     Navigate to the project directory and install any dependencies required by running:  
         pip install -r requirements.txt  
