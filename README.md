@@ -35,7 +35,7 @@ Display Functions: Provides functions for displaying contacts in various formats
     Use the command-line interface to interact with the phonebook directory. Follow the prompts to add, search, update, or delete contacts.
 
    
-Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute to the project, please follow these steps:  
 
