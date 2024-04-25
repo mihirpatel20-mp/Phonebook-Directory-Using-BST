@@ -22,15 +22,17 @@ Display Functions: Provides functions for displaying contacts in various formats
 ## Usage
 
 1. Clone the Repository:  
-    git clone https://github.com/mihirpatel20-mp/phonebook-directory.git  
-2. Install Dependencies:  
+    git clone https://github.com/mihirpatel20-mp/Phonebook-Directory-Using-BST.git
+
+   https://github.com/mihirpatel20-mp/Phonebook-Directory-Using-BST/tree/main
+3. Install Dependencies:  
     Navigate to the project directory and install any dependencies required by running:  
         pip install -r requirements.txt  
   
-3. Run the Application:  
+4. Run the Application:  
     Execute the main.py script to start the phonebook directory application:  
         python main.py  
-4. Follow On-Screen Instructions:
+5. Follow On-Screen Instructions:
     Use the command-line interface to interact with the phonebook directory. Follow the prompts to add, search, update, or delete contacts.
 
    
